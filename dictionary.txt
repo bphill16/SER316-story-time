@@ -1,0 +1,27 @@
+German, English-Translation (if applicable)
+Raesfeld, NA (Municipality in Germany)
+Flughafen, airport
+Berlin, NA (Capital of Germany)
+Bratwurst, [type of] sausage
+Hauptstrasse, main road
+Brot, bread
+Klimaanlage, air conditioning
+Rammstein, NA (band formed in Berlin in 1994)
+Porsche, NA (German automobile manufacturer)
+BMW, NA (German automobile manufacturer)
+Biergarten, beer garden
+Ratskeller, NA (bar / restaurant located in the basement of a city hall [Rathaus] or nearby)
+Dirndel, NA (folk costume)
+Lederhose, NA (traditional leather breeches)
+Schloss, castle
+wettbewerbsfaehig, competitive
+Mehlhase, NA (our instructor's last name)
+Gebaeck, pastries
+Baeckerei, bakery
+Hund, dog
+Apfelkuchen, apple cake
+Schloss Eltz, Eltz Castle
+
+# unsure what this word is in the PDF
+DÃ¶ner
+
