@@ -19,9 +19,6 @@ Mehlhase, NA (our instructor's last name)
 Gebaeck, pastries
 Baeckerei, bakery
 Hund, dog
+Döner, NA (type of kebab)
 Apfelkuchen, apple cake
 Schloss Eltz, Eltz Castle
-
-# unsure what this word is in the PDF
-DÃ¶ner
-
